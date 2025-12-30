@@ -1,0 +1,28 @@
+
+</details>
+
+---
+
+## 🧠 Configuration Files
+
+### ➤ `configs/config.yaml`
+
+```yaml
+extract:
+  api:
+    url: "https://api.example.com/data"
+    token: "${API_TOKEN}"
+  db:
+    host: localhost
+    user: user
+    pass: pass
+    dbname: sample_db
+
+transform:
+  drop_columns: ["unnecessary_col"]
+
+load:
+  db:
+    connection_uri: "postgresql://user:pass@localhost:5432/warehouse"
+  cloud:
+    bucket: "my-data-bucket"
