@@ -15,35 +15,8 @@ A modular and scalable ETL (Extract, Transform, Load) data pipeline built using 
 
 Data_Pipeline
 demonstrates the use of data pipelines to optimize insights from flowdata-pipeline-project/
-├── .github/
-│   └── workflows/
-│       └── python-app.yml      # CI (GitHub Actions)
-├── configs/
-│   ├── config.yaml             # Pipeline configuration
-│   └── logging.yaml            # Logging configuration
-├── data/
-│   ├── raw/                    # Incoming raw data
-│   └── processed/              # Cleaned/transformed data
-├── docs/
-│   └── architecture.md         # Architecture diagrams + design
-├── pipelines/
-│   ├── __init__.py
-│   ├── extract.py              # Extraction logic
-│   ├── transform.py            # Transformation logic
-│   └── load.py                 # Loading logic
-├── tests/
-│   ├── __init__.py
-│   ├── test_extract.py
-│   ├── test_transform.py
-│   └── test_load.py
-├── .gitignore
-├── README.md
-├── requirements.txt
-├── setup.py
-└── run_pipeline.py             # Launch point
 
-## Details
-## 🚀 Features
+## Details on 🚀 Features
 
 🔄 **Automated extraction** from:
 - REST APIs
