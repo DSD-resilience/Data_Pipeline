@@ -1,6 +1,7 @@
 import pandas as pd
 import logging
 
+# using function
 logger = logging.getLogger(__name__)
 
 def clean_data(df: pd.DataFrame, drop_cols: list[str]) -> pd.DataFrame:
