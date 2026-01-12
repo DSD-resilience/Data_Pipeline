@@ -2,7 +2,7 @@ import pandas as pd
 import sqlalchemy
 import logging
 
-# Set up logger
+# Set up logger for logging
 logger = logging.getLogger(__name__)
 
 def load_data(df: pd.DataFrame, connection_uri: str, table_name: str, if_exists: str = "replace"):
