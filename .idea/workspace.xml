@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b639cc58-0202-4aac-9ae2-4f7ffd414817" name="Changes" comment="creating an extract file">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="b639cc58-0202-4aac-9ae2-4f7ffd414817" name="Changes" comment="creating an extract file" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -60,7 +58,12 @@
     "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
     "RunOnceActivity.git.unshallow": "true",
     "dart.analysis.tool.window.visible": "false",
-    "git-widget-placeholder": "configs"
+    "ignore.virus.scanning.warn.message": "true"
+  },
+  "keyToStringList": {
+    "com.intellij.ide.scratch.ScratchImplUtil$2/New Scratch File": [
+      "yaml"
+    ]
   }
 }]]></component>
   <component name="RecentsManager">
@@ -155,7 +158,39 @@
       <option name="project" value="LOCAL" />
       <updated>1767850557662</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="creating an extract file">
+      <option name="closed" value="true" />
+      <created>1768095456264</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1768095456264</updated>
+    </task>
+    <task id="LOCAL-00011" summary="creating an extract file">
+      <option name="closed" value="true" />
+      <created>1768095459175</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1768095459175</updated>
+    </task>
+    <task id="LOCAL-00012" summary="creating an extract file">
+      <option name="closed" value="true" />
+      <created>1768095467232</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1768095467232</updated>
+    </task>
+    <task id="LOCAL-00013" summary="creating an extract file">
+      <option name="closed" value="true" />
+      <created>1768095469231</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1768095469231</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
